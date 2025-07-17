@@ -28,11 +28,18 @@ print("Type of my_string:", type(my_string))
 print("Type of my_integer:", type(my_integer))
 print("Type of my_float:", type(my_float))
 print("Type of my_boolean:", type(my_boolean))
+<<<<<<< HEAD
  continu text
 # Exercise 3: String Operations
 first_name = "John"
 last_name = "Doe"
 text_age = "26"
+=======
+
+# Exercise 3: String Operations
+first_name = "John"
+last_name = "Doe"
+>>>>>>> upstream/main
 
 # Concatenate strings
 full_name = first_name + " " + last_name
@@ -78,6 +85,7 @@ print("a =", a, "b =", b, "c =", c)
 # Complete the following assignments:
 
 # String variable containing your favorite color
+<<<<<<< HEAD
 favorite_color = "Blue"
 
 # Integer variable with the current year
@@ -88,6 +96,18 @@ favorite_number = "3.8"
 
 # Boolean variable indicating if you like pizza
 likes_pizza = True
+=======
+favorite_color = 
+
+# Integer variable with the current year
+current_year = 
+
+# Float variable with your favorite number (with decimal)
+favorite_number = 
+
+# Boolean variable indicating if you like pizza
+likes_pizza = 
+>>>>>>> upstream/main
 
 # Print all variables with descriptive messages
 print("My favorite color is:", favorite_color)

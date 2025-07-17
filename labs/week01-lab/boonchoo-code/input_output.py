@@ -5,7 +5,11 @@ user_name = input("What is your name? ")
 print("Hello,", user_name, "!")
 print("Nice to meet you,", user_name)
 
+<<<<<<< HEAD
 # Exercise 2: Input with Numbers***important to result
+=======
+# Exercise 2: Input with Numbers
+>>>>>>> upstream/main
 # Note: input() always returns a string, so we need to convert to numbers
 print("\n=== Exercise 2: Working with Numbers ===")
 age_string = input("How old are you? ")
